@@ -1,0 +1,15 @@
+uuid: 543da55a-6b42-439a-9d2a-af306a830ac0
+langcode: en
+status: true
+dependencies: {  }
+id: development_config
+label: 'Development config'
+description: 'Contains the  configurations for the Development env'
+weight: 0
+folder: dev
+module: {  }
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
