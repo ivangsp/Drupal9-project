@@ -1,0 +1,15 @@
+uuid: 4b379d82-821e-494b-be3b-337a84c3a864
+langcode: en
+status: false
+dependencies: {  }
+id: prod
+label: 'Production split'
+description: 'Contains configurations specific to the production site'
+weight: 0
+folder: ../config/prod
+module: {  }
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
