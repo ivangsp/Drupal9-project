@@ -1,16 +1,20 @@
 uuid: 543da55a-6b42-439a-9d2a-af306a830ac0
 langcode: en
-status: true
+status: false
 dependencies: {  }
-id: dev_config
-label: 'Development config'
+id: dev
+label: 'Development Split'
 description: 'Contains the  configurations for the Development env'
 weight: 0
-folder: dev
+folder: ../config/dev
 module:
   devel: 0
 theme: {  }
-blacklist: {  }
+blacklist:
+  - config_split.config_split.dev
+  - devel.settings
+  - devel.toolbar.settings
+  - system.menu.devel
 graylist: {  }
 graylist_dependents: true
 graylist_skip_equal: true
