@@ -1,0 +1,15 @@
+sub_theme.small:
+  label: small
+  mediaQuery: 'all and (min-width: 25em)'
+sub_theme.small-med:
+  label: small-med
+  mediaQuery: 'all and (min-width: 26em)'
+sub_theme.small-large:
+  label: small-large
+  mediaQuery: 'all and (min-width: 41em)'
+sub_theme.medium:
+  label: medium
+  mediaQuery: 'all and (min-width: 48em)'
+sub_theme.large:
+  label: large
+  mediaQuery: 'all and (min-width: 61.25em)'
