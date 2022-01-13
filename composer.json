@@ -24,6 +24,7 @@
         "drupal/core-recommended": "^9.3",
         "drupal/devel": "^4.1",
         "drupal/emulsify_twig": "^2.0",
+        "drupal/module_filter": "^3.2",
         "drush/drush": "^10.6"
     },
     "conflict": {
