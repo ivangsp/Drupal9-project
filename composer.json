@@ -16,6 +16,7 @@
     ],
     "require": {
         "composer/installers": "^1.9",
+        "drupal/admin_toolbar": "^3.0",
         "drupal/components": "^2.4",
         "drupal/config_split": "^1.7",
         "drupal/core-composer-scaffold": "^9.3",
